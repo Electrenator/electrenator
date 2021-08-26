@@ -7,8 +7,8 @@ I'm a 19 year old student who is also known as T. de Kimpe on the world wide web
 - ⚡ I like the idea of one of my future creations reaching into outer space.
 
 ## 📊 Github statistics
-[![Electrenator's GitHub statistics](https://github-readme-stats.vercel.app/api?username=electrenator&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages that Electrenator uses the most](https://github-readme-stats.vercel.app/api/top-langs/?username=electrenator&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Electrenator's GitHub statistics](https://github-readme-stats.vercel.app/api?username=electrenator&count_private=true&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages that Electrenator uses the most](https://github-readme-stats.vercel.app/api/top-langs/?username=electrenator&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Github trophies Electrenator obtained](https://github-profile-trophy.vercel.app/?username=electrenator&margin-w=8&margin-h=8&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
