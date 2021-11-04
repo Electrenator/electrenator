@@ -4,6 +4,7 @@ I'm a 19 year old student who is also known as T. de Kimpe on the world wide web
 
 [![Telegram username](https://img.shields.io/badge/Telegram-T_deKimpe-informational)](https://t.me/T_deKimpe) ![Profile Views](https://komarev.com/ghpvc/?username=electrenator)
 
+- 📜 I have a decent understanding of Java, Node, Docker, Python and Bash.
 - ⚡ I like the idea of one of my future creations reaching into outer space.
 
 ## 📊 Github statistics
