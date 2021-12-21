@@ -2,8 +2,9 @@
 
 I'm a student who is also known as T. de Kimpe on the world wide web. My main focus right now is to study computer science while enjoying the process of learning the ins and outs of coding.
 
-[![Telegram username](https://img.shields.io/badge/Telegram-T_deKimpe-informational)](https://t.me/T_deKimpe) ![Profile Views](https://komarev.com/ghpvc/?username=electrenator)
+[![Telegram username](https://img.shields.io/badge/Telegram-T_deKimpe-informational)](https://t.me/T_deKimpe) ![Discord profile](https://img.shields.io/badge/Discord-Electrenator%238827-informational) ![Profile Views](https://komarev.com/ghpvc/?username=electrenator)
 
+- 🔭 Currently I'm working on a web crawler / indexer and making small collaboration efforts within other projects.
 - 🧰 I have a decent understanding of Java, Node (Type- and JavaScript), Docker, Python and Bash.
 - ![Terminal emoji](https://cdn.discordapp.com/emojis/847201579038801970.png?size=16) Familiar with operating systems under the Linux family.
 - ⚡ I like the idea of one of my future creations reaching into outer space.
