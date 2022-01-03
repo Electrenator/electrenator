@@ -2,7 +2,7 @@
 
 I'm a student learning computer science while enjoying the process of learning the ins and outs of coding.
 
-[![Telegram username](https://img.shields.io/badge/Telegram-L_deKimpe-informational)](https://t.me/L_deKimpe) ![Discord profile](https://img.shields.io/badge/Discord-Electrenator%238827-informational) ![Profile Views](https://komarev.com/ghpvc/?username=electrenator)
+[![Telegram username](https://img.shields.io/badge/Telegram-Electrenator-informational)](https://t.me/Electrenator) ![Discord profile](https://img.shields.io/badge/Discord-Electrenator%238827-informational) ![Profile Views](https://komarev.com/ghpvc/?username=electrenator)
 
 - 🔭 Currently I'm working on a web crawler / indexer and making small collaboration efforts within other projects.
 - 🧰 I have a decent understanding of Java, Node (Type- and JavaScript), Docker, Python and Bash.
