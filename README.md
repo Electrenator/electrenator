@@ -12,7 +12,6 @@ I'm a student learning computer science while enjoying the process of learning t
 
 ## 📊 Github statistics
 [![(Graphic with my GitHub profile statistics)](https://github-readme-stats.vercel.app/api?username=electrenator&count_private=true&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![(Graphic with the top most used coding languages within my commits)](https://github-readme-stats.vercel.app/api/top-langs/?username=electrenator&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![(Graphic with the GitHub trophies I've obtained)](https://github-profile-trophy.vercel.app/?username=electrenator&margin-w=8&margin-h=8&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
