@@ -2,7 +2,7 @@
 
 I'm a student learning computer science while enjoying the process of learning the ins and outs of coding.
 
-[![(Shield with my Telegram profile)](https://img.shields.io/badge/Telegram-Electrenator-informational)](https://t.me/Electrenator) ![(Counter shield with my total GitHub profile views)](https://komarev.com/ghpvc/?username=electrenator)
+![(Counter shield with my total GitHub profile views)](https://komarev.com/ghpvc/?username=electrenator)
 
 - ⚡ I'm currently not working on any large personal projects. Sometimes do make small collaboration efforts within other projects.
 - 📜 Studying at the Amsterdam University of Applied Sciences.
