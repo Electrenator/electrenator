@@ -1,8 +1,9 @@
-<h2 align="center">Hello there, I'm Liera 🐉 </h2>
+## Hello there, I'm Liera 🐉
 
 I'm a somewhat chaotic computer science student from the Netherlands who likes plants. I like working with Linux systems and there CLI. Next to this I think that creating little scripts and managing things for my own server is also fun.
 
 Currently I'm working on and off on random projects. Sometimes making small collaboration efforts within projects while continuing to learn the ins and outs of coding. While interested in making stuff for space travel in the future, although I'm not sure how realistic that dream currently is.
 
 ![(Counter shield with my total GitHub profile views)](https://komarev.com/ghpvc/?username=electrenator)
-<!-- 33 my visits -->
+<!-- 36 my visits -->
+[![(Graphic with my GitHub profile statistics)](https://github-readme-stats.vercel.app/api?username=electrenator&count_private=true&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
