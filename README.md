@@ -6,4 +6,3 @@ Currently I'm working on and off on random projects. Sometimes making small coll
 
 ![(Counter shield with my total GitHub profile views)](https://komarev.com/ghpvc/?username=electrenator)
 <!-- 36 my visits -->
-[![(Graphic with my GitHub profile statistics)](https://github-readme-stats.vercel.app/api?username=electrenator&count_private=true&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
