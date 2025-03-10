@@ -1,8 +1,14 @@
 ## Hello there, I'm Liera 🐉
 
-I'm a somewhat chaotic computer science student from the Netherlands who likes plants. I like working with Linux systems and there CLI. Next to this I think that creating little scripts and managing things for my own server is also fun.
+I'm a final year computer science student driven by curiosity. Currently I'm working on and off on random projects. Sometimes making small collaboration efforts within projects while continuing to learn more about random subjects.  
+Mostly working on finishing my study but also work on random projects, my homelab and some other hobbies. Recently (as of last date below) I've mainly been working on;
+- Trying out Golang;
+- Some quantum programming;
+- Bit of dabbling into the Minecraft modding scene.
 
-Currently I'm working on and off on random projects. Sometimes making small collaboration efforts within projects while continuing to learn the ins and outs of coding. While interested in making stuff for space travel in the future, although I'm not sure how realistic that dream currently is.
+*GitHub isn't where all repositories I work on are kept, so the statistics here don't represent everything I do.*
 
-![(Counter shield with my total GitHub profile views)](https://komarev.com/ghpvc/?username=electrenator)
 <!-- 36 my visits -->
+![Counter shield with Lieras total GitHub profile views](https://komarev.com/ghpvc/?username=electrenator)
+![Last altered at 2025-03-10T11:55+01:00](https://img.shields.io/badge/Last%20altered%20at-2025--03--10T11:55+01:00-blue)
+
