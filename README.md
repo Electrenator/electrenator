@@ -10,5 +10,5 @@ Mostly working on finishing my study but I also work on hobby projects, my homel
 
 <!-- 36 my visits -->
 ![Counter shield with Lieras total GitHub profile views](https://komarev.com/ghpvc/?username=electrenator)
-![Last altered at time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Felectrenator%2Felectrenator%2Fcommits%2Fmain&query=%24.commit.committer.date&color=%237e0cf5&label=Last%20altered%20at)
+![Last altered at time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Felectrenator%2Felectrenator%2Fcommits%2Fmain&query=%24.commit.committer.date&color=%23703f89&label=Last%20altered%20at)
 
